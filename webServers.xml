@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e9018656-af3b-48e1-a500-fee44967ad42" name="dev5" url="http://emachdev05.ch.emakina.com/emakina">
+        <fileTransfer host="emachdev05.ch.emakina.com" port="22" rootFolder="/home/emakina/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
